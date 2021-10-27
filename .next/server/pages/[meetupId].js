@@ -108,12 +108,12 @@ module.exports = require("react/jsx-runtime");
 
 /***/ }),
 
-/***/ "YEck":
+/***/ "jmXF":
 /***/ (function(module, exports) {
 
 // Exports
 module.exports = {
-	"detail": "MeetupDetail_detail__C_8IT"
+	"detail": "MeetUpDetail_detail__GwAhs"
 };
 
 
@@ -133,9 +133,9 @@ __webpack_require__.d(__webpack_exports__, "getStaticProps", function() { return
 // EXTERNAL MODULE: external "react/jsx-runtime"
 var jsx_runtime_ = __webpack_require__("F5FC");
 
-// EXTERNAL MODULE: ./components/meetups/MeetupDetail.module.css
-var MeetupDetail_module = __webpack_require__("YEck");
-var MeetupDetail_module_default = /*#__PURE__*/__webpack_require__.n(MeetupDetail_module);
+// EXTERNAL MODULE: ./components/meetups/MeetUpDetail.module.css
+var MeetUpDetail_module = __webpack_require__("jmXF");
+var MeetUpDetail_module_default = /*#__PURE__*/__webpack_require__.n(MeetUpDetail_module);
 
 // CONCATENATED MODULE: ./components/meetups/MeetUpDetail.js
 
@@ -144,7 +144,7 @@ var MeetupDetail_module_default = /*#__PURE__*/__webpack_require__.n(MeetupDetai
 
 const MeetUpDetail = props => {
   return /*#__PURE__*/Object(jsx_runtime_["jsxs"])("section", {
-    className: MeetupDetail_module_default.a.detail,
+    className: MeetUpDetail_module_default.a.detail,
     children: [/*#__PURE__*/Object(jsx_runtime_["jsx"])("img", {
       src: props.image,
       alt: props.title
